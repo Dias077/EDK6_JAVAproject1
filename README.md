@@ -1,4 +1,3 @@
-# TestJavaFX11_windows
 # EDK6_JAVAproject1
 
 ![Screenshot](formula.png)
