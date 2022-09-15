@@ -1,5 +1,5 @@
 # TestJavaFX11_windows
-[Apache NetBeans 12 + OpenJFX 11 + OpenJDK 11 (windows)]
+# EDK6_JAVAproject1
 
 ![Screenshot](formula.png)
 
